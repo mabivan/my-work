@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+h1{
+text-align:center ;
+color: white;
+font-size: larger;
+}
+.form{
+   text-align: center;
+}
+button,input{
+    height:30px;
+    border-radius: 4px;
+}
+button:hover{
+    border:2px solid rgb(10,120,250)
+}
+.btn1{
+    background-color: gray;
+    color:white;
+}
+.btn1:hover{
+    background-color: rgb(47, 43, 43);
+}
+.btn2{
+background-color: red;
+color: #FFFFFF;
+}
+.btn2:hover{
+    background-color: rgb(204, 102, 102);
+}
+
+
+
+
+
+
